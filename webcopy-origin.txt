@@ -1,0 +1,260 @@
+Uri: https://twowords.info/
+File Name: D:\work\copy site\twowords.info\index.htm
+Content Type: text/html
+
+Uri: https://twowords.info/img/favicon.ico
+File Name: D:\work\copy site\twowords.info\img\favicon-1.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,600,700&subset=cyrillic,cyrillic-ext
+File Name: D:\work\copy site\twowords.info\css-1.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\css\all-1.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/bootstrap-grid.css
+File Name: D:\work\copy site\twowords.info\css\bootstrap-grid-1.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/main.min.css
+File Name: D:\work\copy site\twowords.info\css\main.min-1.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/main.scss
+File Name: D:\work\copy site\twowords.info\css\main-1.scss
+Content Type: application/octet-stream
+
+Uri: https://twowords.info/css/loader.css
+File Name: D:\work\copy site\twowords.info\css\loader-1.css
+Content Type: text/css
+
+Uri: https://twowords.info/css/bootstrap.css
+File Name: D:\work\copy site\twowords.info\css\bootstrap-1.css
+Content Type: text/css
+
+Uri: https://twowords.info/policy.html
+File Name: D:\work\copy site\twowords.info\policy-1.html
+Content Type: text/html
+
+Uri: https://twowords.info/agreement.html
+File Name: D:\work\copy site\twowords.info\agreement-1.html
+Content Type: text/html
+
+Uri: https://twowords.info/js/hls.js
+File Name: D:\work\copy site\twowords.info\js\hls-1.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/img/reg-footer-item-one.png
+File Name: D:\work\copy site\twowords.info\img\reg-footer-item-one-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-two.png
+File Name: D:\work\copy site\twowords.info\img\reg-footer-item-two-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-three.png
+File Name: D:\work\copy site\twowords.info\img\reg-footer-item-three-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-four.png
+File Name: D:\work\copy site\twowords.info\img\reg-footer-item-four-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/reg-footer-item-five.png
+File Name: D:\work\copy site\twowords.info\img\reg-footer-item-five-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-logo.png
+File Name: D:\work\copy site\twowords.info\img\main-logo-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-one.png
+File Name: D:\work\copy site\twowords.info\img\main-footer-item-one-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-two.png
+File Name: D:\work\copy site\twowords.info\img\main-footer-item-two-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-three.png
+File Name: D:\work\copy site\twowords.info\img\main-footer-item-three-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-four.png
+File Name: D:\work\copy site\twowords.info\img\main-footer-item-four-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-footer-item-five.png
+File Name: D:\work\copy site\twowords.info\img\main-footer-item-five-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/js/jquery.min.js
+File Name: D:\work\copy site\twowords.info\js\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/js/bootstrap.min.js
+File Name: D:\work\copy site\twowords.info\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://twowords.info/js/main.js
+File Name: D:\work\copy site\twowords.info\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/montserrat/v15/JTUSjIg1_i6t8kCHKm459WRhzg.ttf
+File Name: D:\work\copy site\twowords.info\s\montserrat\v15\JTUSjIg1_i6t8kCHKm459WRhzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_bZF3gTD-w.ttf
+File Name: D:\work\copy site\twowords.info\s\montserrat\v15\JTURjIg1_i6t8kCHKm45_bZF3gTD-w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_dJE3gTD-w.ttf
+File Name: D:\work\copy site\twowords.info\s\montserrat\v15\JTURjIg1_i6t8kCHKm45_dJE3gTD-w.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg
+File Name: D:\work\copy site\twowords.info\releases\v5.8.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://twowords.info/img/ibg.jpg
+File Name: D:\work\copy site\twowords.info\img\ibg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://twowords.info/img/main-form-right-arrow.png
+File Name: D:\work\copy site\twowords.info\img\main-form-right-arrow-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-form-left-arrow.png
+File Name: D:\work\copy site\twowords.info\img\main-form-left-arrow-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-form-button.png
+File Name: D:\work\copy site\twowords.info\img\main-form-button-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/close-icon.png
+File Name: D:\work\copy site\twowords.info\img\close-icon-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/rbg.jpg
+File Name: D:\work\copy site\twowords.info\img\rbg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://twowords.info/img/step-one.png
+File Name: D:\work\copy site\twowords.info\img\step-one-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-two.png
+File Name: D:\work\copy site\twowords.info\img\step-two-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-three.png
+File Name: D:\work\copy site\twowords.info\img\step-three-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/step-four.png
+File Name: D:\work\copy site\twowords.info\img\step-four-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/done-reviews-bg.png
+File Name: D:\work\copy site\twowords.info\img\done-reviews-bg-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/main-two-form-arrow.png
+File Name: D:\work\copy site\twowords.info\img\main-two-form-arrow-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/how-bg.png
+File Name: D:\work\copy site\twowords.info\img\how-bg-1.png
+Content Type: image/png
+
+Uri: https://twowords.info/img/form-bg.jpg
+File Name: D:\work\copy site\twowords.info\img\form-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.onesignal.com/sdks/OneSignalSDK.js
+File Name: D:\work\copy site\twowords.info\sdks\OneSignalSDK-1.js
+Content Type: application/javascript
+
+Uri: https://www.youtube.com/iframe_api
+File Name: D:\work\copy site\twowords.info\iframe_api-1
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-TPL6CP3
+File Name: D:\work\copy site\twowords.info\ns-1.html
+Content Type: text/html
+
+Uri: https://web.redhelper.ru/service/main.js?c=odelo
+File Name: D:\work\copy site\twowords.info\service\main-1.js
+Content Type: application/x-javascript
+
